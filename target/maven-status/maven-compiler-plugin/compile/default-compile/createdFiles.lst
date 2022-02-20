@@ -1,0 +1,11 @@
+blueboyadventure/Screen.class
+object/Obj_Key.class
+blueboyadventure/BlueBoyAdventure.class
+actor/Player.class
+actor/Actor.class
+object/Obj_Door.class
+object/SuperObject.class
+tile/TileManager.class
+tile/Tile.class
+object/ObjectManager.class
+object/Obj_Chest.class
